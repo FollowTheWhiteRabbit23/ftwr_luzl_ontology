@@ -1,3 +1,6 @@
+# Attention
+This is not https://github.com/HIVEMIND23/LULZ23, this is a seed for this project. Please, refer there for further information.
+
 # ftwr_luzl_ontology
 First design of the Luzl language as initially designed as a social-network metalanguage to dinamize hives of people.
 
