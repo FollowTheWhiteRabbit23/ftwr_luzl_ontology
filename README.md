@@ -47,3 +47,5 @@ Ejemplo:
 
 
 Futher info: https://pastebin.com/YbmG6ETq
+
+![](hivemind.png)
